@@ -1,0 +1,29 @@
+-python oop 
+
+starting with a job class that has a expense class
+
+_________________________________
+             Job
+_________________________________
++ name --> str
++ start_date --> Date
++ end_date --> Date
++ address --> str
++ revenue --> float
++ expense_list --> [] Expense ----------
++ total_expense --> float              |
+_________________________________      |
+									   |
+									   |
+									   |
+									   |
+									   |
+									   |________________________
+									   |---------->Expense
+									    _________________________
+
+									  	+ amount --> float
+									  	+ tDate  --> Date
+									  	+ seller_name --> str
+									  	+ description --> str
+									  	
